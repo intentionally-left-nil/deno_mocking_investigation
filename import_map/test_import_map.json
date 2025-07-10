@@ -1,0 +1,6 @@
+{
+  "imports": {
+    "./random.ts": "./stubs/random.ts",
+    "@std/assert": "jsr:@std/assert@1"
+  }
+} 
